@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/rinkeby/static/css/main.ac34072f.chunk.css",
-    "main.js": "/rinkeby/static/js/main.56ae5015.chunk.js",
-    "main.js.map": "/rinkeby/static/js/main.56ae5015.chunk.js.map",
-    "runtime-main.js": "/rinkeby/static/js/runtime-main.4943e478.js",
-    "runtime-main.js.map": "/rinkeby/static/js/runtime-main.4943e478.js.map",
-    "static/css/2.0dcad14b.chunk.css": "/rinkeby/static/css/2.0dcad14b.chunk.css",
-    "static/js/2.6f38a47e.chunk.js": "/rinkeby/static/js/2.6f38a47e.chunk.js",
-    "static/js/2.6f38a47e.chunk.js.map": "/rinkeby/static/js/2.6f38a47e.chunk.js.map",
-    "index.html": "/rinkeby/index.html",
-    "static/css/2.0dcad14b.chunk.css.map": "/rinkeby/static/css/2.0dcad14b.chunk.css.map",
-    "static/css/main.ac34072f.chunk.css.map": "/rinkeby/static/css/main.ac34072f.chunk.css.map",
-    "static/js/2.6f38a47e.chunk.js.LICENSE.txt": "/rinkeby/static/js/2.6f38a47e.chunk.js.LICENSE.txt",
-    "static/media/0xShield.3a74f68a.png": "/rinkeby/static/media/0xShield.3a74f68a.png",
-    "static/media/chainlink.80875033.svg": "/rinkeby/static/media/chainlink.80875033.svg"
+    "main.css": "/polygon/static/css/main.ac34072f.chunk.css",
+    "main.js": "/polygon/static/js/main.b76dbfcc.chunk.js",
+    "main.js.map": "/polygon/static/js/main.b76dbfcc.chunk.js.map",
+    "runtime-main.js": "/polygon/static/js/runtime-main.b4c5c4eb.js",
+    "runtime-main.js.map": "/polygon/static/js/runtime-main.b4c5c4eb.js.map",
+    "static/css/2.0dcad14b.chunk.css": "/polygon/static/css/2.0dcad14b.chunk.css",
+    "static/js/2.e0b1f74d.chunk.js": "/polygon/static/js/2.e0b1f74d.chunk.js",
+    "static/js/2.e0b1f74d.chunk.js.map": "/polygon/static/js/2.e0b1f74d.chunk.js.map",
+    "index.html": "/polygon/index.html",
+    "static/css/2.0dcad14b.chunk.css.map": "/polygon/static/css/2.0dcad14b.chunk.css.map",
+    "static/css/main.ac34072f.chunk.css.map": "/polygon/static/css/main.ac34072f.chunk.css.map",
+    "static/js/2.e0b1f74d.chunk.js.LICENSE.txt": "/polygon/static/js/2.e0b1f74d.chunk.js.LICENSE.txt",
+    "static/media/0xShield.3a74f68a.png": "/polygon/static/media/0xShield.3a74f68a.png",
+    "static/media/chainlink.80875033.svg": "/polygon/static/media/chainlink.80875033.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4943e478.js",
+    "static/js/runtime-main.b4c5c4eb.js",
     "static/css/2.0dcad14b.chunk.css",
-    "static/js/2.6f38a47e.chunk.js",
+    "static/js/2.e0b1f74d.chunk.js",
     "static/css/main.ac34072f.chunk.css",
-    "static/js/main.56ae5015.chunk.js"
+    "static/js/main.b76dbfcc.chunk.js"
   ]
 }
